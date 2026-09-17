@@ -48,13 +48,11 @@ franka_trajectory_env_cfg.py
 
 ## Results
 
-Training:
-
-- PPO
-- 200 iterations
-- 76800 steps
-
 Tracking performance:
 
-- RMSE: add your value
-- MAE: add your value
+- RMSE: 0.003248m
+- MAE: 0.002947m
+- MAX ERROR: 0.006152m
+- X RMSE: 0.61mm
+- Y RMSE: 2.902mm
+- Z RMSE: 1.324mm
